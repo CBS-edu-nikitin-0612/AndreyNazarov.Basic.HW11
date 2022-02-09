@@ -1,6 +1,6 @@
 ﻿namespace Task4
 {
-    internal class ArrayList
+    public class ArrayList
     {
         private object[] array;
         public int Count { get; private set; }
